@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Dec  6 14:04:35 2019
+# Process ID: 12956
+# Current directory: D:/Light_Sensor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14652 D:\Light_Sensor\Light_Sensor.xpr
+# Log file: D:/Light_Sensor/vivado.log
+# Journal file: D:/Light_Sensor\vivado.jou
+#-----------------------------------------------------------sstart_guioopen_project D:/Light_Sensor/Light_Sensor.xprupdate_compile_order -fileset sources_1
+

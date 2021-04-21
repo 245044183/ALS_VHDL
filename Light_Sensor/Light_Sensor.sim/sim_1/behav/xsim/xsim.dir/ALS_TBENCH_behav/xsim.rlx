@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8939150901596250435  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto ca1d4645832a4dd79355f8184fd3e8f9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot ALS_TBENCH_behav xil_defaultlib.ALS_TBENCH" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "15:06:07" , 
+    linkCmd : "D:\\schoolsoftware\\Vivado\\2019.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/ALS_TBENCH_behav/xsimk.exe\"   \"xsim.dir/ALS_TBENCH_behav/obj/xsim_0.win64.obj\" \"xsim.dir/ALS_TBENCH_behav/obj/xsim_1.win64.obj\" -L\"D:\\schoolsoftware\\Vivado\\2019.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Light_Sensor.srcs/sources_1/new/LIGHT_SENSOR.vhd" \
+"../../../../../EE478 LAB5/ClockGen.vhd" \
+"../../../../../EE478 LAB5/DVI_Constants.vhd" \
+"../../../../../EE478 LAB5/SyncAsync.vhd" \
+"../../../../../EE478 LAB5/SyncAsyncReset.vhd" \
+"../../../../../EE478 LAB5/OutputSERDES.vhd" \
+"../../../../../EE478 LAB5/TMDS_Encoder.vhd" \
+"../../../../../EE478 LAB5/rgb2dvi.vhd" \
+"../../../../../EE478 LAB5/Lab5.vhd" \
+"../../../../Light_Sensor.srcs/sources_1/new/SPI_MASTER.vhd" \
+"../../../../Light_Sensor.srcs/sim_1/new/ALS_TBENCH.vhd" \
+
+# Do not sort compile order
+nosort

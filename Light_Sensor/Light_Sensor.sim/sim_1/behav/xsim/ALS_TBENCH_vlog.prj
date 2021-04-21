@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen" \
+"../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen/pxl_clk_gen_clk_wiz.v" \
+"../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen/pxl_clk_gen.v" \
+"../../../../../EE478 LAB5/timing.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+I:/EE478 LAB5/timing.v,1286831964,verilog,,,,timing,,,../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen,,,,,
+I:/Light_Sensor/Light_Sensor.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+I:/Light_Sensor/Light_Sensor.srcs/sim_1/new/ALS_TBENCH.vhd,1573443466,vhdl,,,,als_tbench,,,,,,,,
+I:/Light_Sensor/Light_Sensor.srcs/sources_1/ip/pxl_clk_gen/pxl_clk_gen.v,1575239500,verilog,,I:/EE478 LAB5/timing.v,,pxl_clk_gen,,,../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen,,,,,
+I:/Light_Sensor/Light_Sensor.srcs/sources_1/ip/pxl_clk_gen/pxl_clk_gen_clk_wiz.v,1575239500,verilog,,I:/Light_Sensor/Light_Sensor.srcs/sources_1/ip/pxl_clk_gen/pxl_clk_gen.v,,pxl_clk_gen_clk_wiz,,,../../../../Light_Sensor.srcs/sources_1/ip/pxl_clk_gen,,,,,
+I:/Light_Sensor/Light_Sensor.srcs/sources_1/new/LIGHT_SENSOR.vhd,1573762256,vhdl,I:/Light_Sensor/Light_Sensor.srcs/sim_1/new/ALS_TBENCH.vhd,,,light_sensor,,,,,,,,
+I:/Light_Sensor/Light_Sensor.srcs/sources_1/new/SPI_MASTER.vhd,1573763678,vhdl,,,,spi_master,,,,,,,,

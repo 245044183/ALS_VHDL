@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Dec  1 17:31:45 2019
+# Process ID: 1544
+# Current directory: I:/Light_Sensor/Light_Sensor.runs/pxl_clk_gen_synth_1
+# Command line: vivado.exe -log pxl_clk_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pxl_clk_gen.tcl
+# Log file: I:/Light_Sensor/Light_Sensor.runs/pxl_clk_gen_synth_1/pxl_clk_gen.vds
+# Journal file: I:/Light_Sensor/Light_Sensor.runs/pxl_clk_gen_synth_1\vivado.jou
+#-----------------------------------------------------------
+source pxl_clk_gen.tcl -notrace

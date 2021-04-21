@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../project_1/project_1.srcs/sources_1/imports/new/SPI_MASTER.vhd" \
+"../../../../Light_Sensor.srcs/sources_1/new/LIGHT_SENSOR.vhd" \
+
+# Do not sort compile order
+nosort
